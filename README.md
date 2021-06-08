@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akashdas1811
 - 👀 I’m interested in SDE
 - 🌱 I’m currently working as a SWE Intern @NCR Corp India.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : on Linkedin.
 
 <!---
